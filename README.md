@@ -10,6 +10,7 @@
 <br>
 <h3 align="center">⚡️ How about me? ⚡️
 <br>
+</h3>
   👩🏻 You can call me Putri <br>
   🌊 I really like nature and the sea <br>
   🍵 Matcha is my favorite <br>
