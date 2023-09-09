@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Putri Septyaningsih</h1>
-<h3 align="center">Undergraduate Student of Geophysics Gadjah Mada University![image](https://github.com/putrisep/putrisep/assets/144145756/a8dfe254-3041-44e7-988f-dc70b7204e23)
+<h3 align="center">Undergraduate Student of Geophysics Gadjah Mada University🌏⚒
 </h3>
 <!--- snake -->
 <div align="center">
@@ -9,7 +9,7 @@
 
 <br>
 
-- Jalan-jalan itu hobi aku
+Jalan-jalan itu hobi aku
 - Biru itu kesukaanku 
 - Pantai itu tempat tenang ku
 
