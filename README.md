@@ -8,7 +8,8 @@
 </div>
 
 <br>
-<h1 align="center">⚡️ How about me? ⚡️
+<"center">⚡️ How about me? ⚡️
+<br>
   👩🏻 You can call me Putri
   🌊 I really like nature and the sea
   🍵 Matcha is my favorite
