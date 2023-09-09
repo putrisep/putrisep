@@ -8,13 +8,14 @@
 </div>
 
 <br>
-<"center">⚡️ How about me? ⚡️
+<h3 align="center">⚡️ How about me? ⚡️
 <br>
-  👩🏻 You can call me Putri
-  🌊 I really like nature and the sea
-  🍵 Matcha is my favorite
-  🏡 I'm from Kebumen city
-  💫 Fun fact : don't like durian
+  👩🏻 You can call me Putri <br>
+  🌊 I really like nature and the sea <br>
+  🍵 Matcha is my favorite <br>
+  🏡 I'm from Kebumen city <br>
+  💫 Fun fact : don't like durian <br>
+
   
   Salam kenal guysss!!!
 
