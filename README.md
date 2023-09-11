@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, my name is Putri Septyaningsih</h1>
-<h3 align="center">Undergraduate Student of Geophysics Gadjah Mada University🌏⚒
+<h3 align="center">Undergraduate Student of Geophysics at Gadjah Mada University🌏⚒
 </h3>
 <!--- snake -->
 <div align="center">
@@ -22,11 +22,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/putri-septyaningsih-890524246/)">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/putri-septyaningsih-890524246/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-			<a style="margin-left: 10px;" target="_blank" href="[https://instagram.com/100rabhch](https://instagram.com/putrissep_">
+			<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/putrissep_">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="[https://twitter.com/100rabhcsmc](https://twitter.com/cimcimorymatcha)">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/cimcimorymatcha">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
