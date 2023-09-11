@@ -17,12 +17,19 @@
   🏡 I'm from Kebumen city <br>
   💫 Fun fact : don't like durian <br>
 
-<i>Follow me around the web:</i>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://www.linkedin.com/in/putri-septyaningsih-890524246/"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/putri-septyaningsih-890524246/)">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<a style="margin-left: 10px;" target="_blank" href="[https://instagram.com/100rabhch](https://instagram.com/putrissep_">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="[https://twitter.com/100rabhcsmc](https://twitter.com/cimcimorymatcha)">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+      </div>
+
 </p>
-<br>
 
   
