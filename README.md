@@ -27,8 +27,8 @@
 - 🏠 Live in [Yogyakarta, Indonesia](https://goo.gl/maps/cBKbd1qav24TDHPQ6)
 
 - 📫 Feel free to reach me out **putriseptyaningsih20@gmail.com**
+  
 <!--Intro end-->
-
 
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h1>
 
