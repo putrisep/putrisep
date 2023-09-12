@@ -13,6 +13,7 @@
 </h3>
   👩🏻 You can call me Putri <br>
   🌊 I really like nature and the sea <br>
+  :nerd_face: Always `learning new things`.
   🍵 Matcha is my favorite <br>
   🏡 I'm from Kebumen city <br>
   💫 Fun fact : don't like durian <br>
