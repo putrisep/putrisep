@@ -13,19 +13,18 @@
 <br>
 </h3>
  <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+ 
+- 💬 I'm usually called **Putri**
+ 
+- 🌱 I’m currently learning **Python**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 📝 Currently studying in [**Geophysics**](https://geofisika.ugm.ac.id) at [Gadjah Mada University](https://ugm.ac.id)
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💻 Outside tech, 🎵 **listen to music, and 🌴 explore nature outdoors**.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 🏠 Live in [Yogyakarta, Indonesia](https://goo.gl/maps/cBKbd1qav24TDHPQ6)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **putriseptyaningsih20@gmail.com**
-
-- 🏠 Also We've a tech community called [Kebumen, Central Java](https://goo.gl/maps/txY8G32yJpNUjS2M7).
+- 📫 Feel free to reach me out **putriseptyaningsih20@gmail.com**.
 <!--Intro end-->
 
 
