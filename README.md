@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<h3 align="center">⚡️ How about me? ⚡️
+<h3 align="center">**⚡️ How about me? ⚡️**</h1>
 <br>
 </h3>
  <!--Intro start-->
