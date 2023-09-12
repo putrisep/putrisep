@@ -20,11 +20,11 @@
 
 - 📝 Currently studying in [**Geophysics**](https://geofisika.ugm.ac.id) at [Gadjah Mada University](https://ugm.ac.id)
 
-- 💻 Outside tech, 🎵 **listen to music, and 🌴 explore nature outdoors**.
+- 💻 Outside tech, 🎵 **listen to music, and 🌴 explore nature outdoors**
 
 - 🏠 Live in [Yogyakarta, Indonesia](https://goo.gl/maps/cBKbd1qav24TDHPQ6)
 
-- 📫 Feel free to reach me out **putriseptyaningsih20@gmail.com**.
+- 📫 Feel free to reach me out **putriseptyaningsih20@gmail.com**
 <!--Intro end-->
 
 
