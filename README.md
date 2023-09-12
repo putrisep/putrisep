@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, I'm Putri Septyaningsih</h1>
 <h3 align="center">Undergraduate Student of Geophysics at Gadjah Mada University🌏⚒</h3>
 
@@ -44,4 +42,3 @@
       </div>
 
 </p>  
->>>>>>> 265eb5481dd52f23fa63c236fbe7d867ce83b7ec
