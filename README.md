@@ -15,7 +15,7 @@
   🌊 I really like nature and the sea <br>
   :nerd_face: Always `learning new things`<br>
   🍵 Matcha is my favorite <br>
-  🏡 I'm from Kebumen city [https://goo.gl/maps/txY8G32yJpNUjS2M7]<br>
+  🏡 I'm from [Kebumen city](https://goo.gl/maps/txY8G32yJpNUjS2M7)<br>
   💫 Fun fact : don't like durian <br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
