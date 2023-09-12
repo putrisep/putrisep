@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, my name is Putri Septyaningsih</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, I'm Putri Septyaningsih</h1>
 <h3 align="center">Undergraduate Student of Geophysics at Gadjah Mada University🌏⚒
 </h3>
 <!--- snake -->
@@ -13,9 +13,9 @@
 </h3>
   👩🏻 You can call me Putri <br>
   🌊 I really like nature and the sea <br>
-  :nerd_face: Always `learning new things`.
+  :nerd_face: Always `learning new things`<br>
   🍵 Matcha is my favorite <br>
-  🏡 I'm from Kebumen city <br>
+  🏡 I'm from Kebumen city [https://goo.gl/maps/txY8G32yJpNUjS2M7]<br>
   💫 Fun fact : don't like durian <br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
