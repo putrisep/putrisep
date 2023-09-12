@@ -11,12 +11,22 @@
 <h3 align="center">⚡️ How about me? ⚡️
 <br>
 </h3>
-  👩🏻 You can call me Putri <br>
-  🌊 I really like nature and the sea <br>
-  :nerd_face: Always `learning new things`<br>
-  🍵 Matcha is my favorite <br>
-  🏡 I'm from [Kebumen city](https://goo.gl/maps/txY8G32yJpNUjS2M7)<br>
-  💫 Fun fact : don't like durian <br>
+ <!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **putriseptyaningsih20@gmail.com**
+
+- 🏠 Also We've a tech community called [Kebumen, Central Java](https://goo.gl/maps/txY8G32yJpNUjS2M7).
+<!--Intro end-->
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
